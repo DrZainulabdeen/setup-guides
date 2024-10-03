@@ -28,7 +28,7 @@ Click on create new key pair
 
 Enter the keyname as shown and make sure other settings matches and click on create key pair
 
-![alt text](https://github.com/DrZainulabdeen/setup-guides/blob/main/images/aws/ec2-create-keypair.png?raw=true)
+![alt text](https://github.com/DrZainulabdeen/setup-guides/blob/main/images/aws/ec2-create-key-pair.png?raw=true)
 
 
 It will download a .ppk file, This is the private key that you will use to access your aws server in Putty etc.
@@ -72,6 +72,10 @@ Click on launch instance
 
 
 It will take couple of minutes to create and run the server. After that go back to same EC2 page and click on instances. And the click on instance id
+![alt text](https://github.com/DrZainulabdeen/setup-guides/blob/main/images/aws/ec2-instance.png?raw=true)
+
+![alt text](https://github.com/DrZainulabdeen/setup-guides/blob/main/images/aws/ec2-instance-details.png?raw=true)
+
 
 
 
